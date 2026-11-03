@@ -1,9 +1,7 @@
 # App-Dev
 My first repository 
 
-# Heading 
-
-My Favorite Movie/Series
+# My Favorite Movie/Series
 
 1. **World War Z** 
 2. *Game Of Thrones*
